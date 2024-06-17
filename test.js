@@ -14,7 +14,7 @@ let config = {
   headers: {
     'accept': 'text/html, */*; q=0.01',
     'accept-language': 'en-US,en;q=0.9,gl;q=0.8,pt;q=0.7',
-    'cookie': `PHPSESSID=8hakrm3tf9drq38ntd7fs4e2k4; regybox_boxes=%2A${auth}; regybox_user=${auth}; _ga=GA1.1.1171832173.1717503286; _ga_M0FG753LRM=GS1.1.1717503286.1.1.1717504257.0.0.0; regybox_boxes=%2A${auth}; regybox_user=${auth}`,
+    'cookie': `PHPSESSID=68aujv9vn063kverqo8658gb71; regybox_boxes=%2A${auth}; regybox_user=${auth}; _ga=GA1.1.1018907428.1718629121; _ga_M0FG753LRM=GS1.1.1718629120.1.0.1718629120.0.0.0; regybox_boxes=%2A${auth}; regybox_user=${auth}`,
     'priority': 'u=0, i',
     'referer': `https://www.regibox.pt/app/app_nova/index.php?z=${auth}&id=12&lang=en&tipo=direct&id_box=12&type=direct`,
     'sec-ch-ua': '"Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"',
@@ -46,7 +46,7 @@ axios.request(config)
    headers: {
      'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
      'accept-language': 'en-US,en;q=0.9,gl;q=0.8,pt;q=0.7',
-     'cookie': `PHPSESSID=8hakrm3tf9drq38ntd7fs4e2k4; regybox_boxes=%2A${auth}; regybox_user=${auth}; _ga=GA1.1.1171832173.1717503286; _ga_17R0Y8DFZK=GS1.1.1717502445.1.1.1717504553.0.0.0; _ga_M0FG753LRM=GS1.1.1717503286.1.1.1717505599.0.0.0; regybox_boxes=%2A${auth}; regybox_user=${auth}`,
+     'cookie': `PHPSESSID=68aujv9vn063kverqo8658gb71; regybox_boxes=%2A${auth}; regybox_user=${auth}; _ga=GA1.1.1018907428.1718629121; _ga_M0FG753LRM=GS1.1.1718629120.1.0.1718629120.0.0.0; regybox_boxes=%2A${auth}; regybox_user=${auth}`,
      'priority': 'u=0, i',
      'referer': `https://www.regibox.pt/app/app_nova/index.php?z=${auth}&id=12&lang=en&tipo=direct&id_box=12&type=direct`,
      'sec-ch-ua': '"Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"',
